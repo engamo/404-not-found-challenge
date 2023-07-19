@@ -24,8 +24,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
- It was a great experience working on this error page challenge, I have learnt more about responsive designs and I have also been able to build my confidence in working on a solo project. :)                                                                     
-
+ It was a great experience working on this error page challenge, I have learned more about responsive designs and I have also been able to build my confidence in working on a solo project.
 
 ## Contact
 
@@ -33,4 +32,4 @@
 - GitHub [@engamo](https://github.com/engamo)
 
 # 404-not-found-page
-I was able to use HTML and CSS including Flexbox and Media Querries for responsive screen sizes.
+I was able to use HTML and CSS including Flexbox and Media Queries, for responsive screen sizes.
